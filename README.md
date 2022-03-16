@@ -44,4 +44,4 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo de [LICENÇA](h
 
 ---
 
-<p align="center">Feito com 💙 por Jorge Felipe Cunha</p>
+<p align="center">Feito com 💙 por Paulo Roberto</p>
